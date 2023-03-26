@@ -10,7 +10,7 @@ The website will be a single page with a controlled scroll. There will be 3 part
 - About, you’ll understand what and who is Addiction Agency.
 - Contact.
 
-[Live]([https://www.addiction-agency.com/](https://www.addiction-agency.com/))
+[Live](https://www.addiction-agency.com/)
 
 ## Some issues
 
