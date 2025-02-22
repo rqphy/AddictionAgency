@@ -4,8 +4,6 @@
 
 ## The idea
 
-![Homepage Addiction Agency](https://juq1maqrjs.ufs.sh/f/r1m4dnkvsK4QVQdoEFbODc6AFL2QrJse1TYB7lZEUChMkiSI)
-
 The website will be a single page with a controlled scroll. There will be 3 parts:
 
 - Works, you’ll be able to find all of their creations. Each frame will have a video in the background, the name of the project and the client brand. Some project won prices that need to be displayed.
@@ -13,6 +11,8 @@ The website will be a single page with a controlled scroll. There will be 3 part
 - Contact.
 
 [Live](https://www.addiction-agency.com/)
+
+![Homepage Addiction Agency](https://juq1maqrjs.ufs.sh/f/r1m4dnkvsK4QVQdoEFbODc6AFL2QrJse1TYB7lZEUChMkiSI)
 
 ## Some issues
 
